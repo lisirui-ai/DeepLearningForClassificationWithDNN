@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 DeepLearningForClassification
+# DeepLearningForClassification
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
